@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "nds.h": "c",
+        "background.h": "c",
+        "controls.h": "c",
+        "fat.h": "c"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/daniel/Downloads/embeddedSystems-main/week4",
+            "binaryPath": "/home/daniel/Downloads/embeddedSystems-main/week4/week4.elf",
+            "binaryArgs": []
+        }
+    ]
+}
